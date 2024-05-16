@@ -1,0 +1,15 @@
+C:\Users\alihe\source\repos\MyUdemyApiProject\ApiConsume\HotelProject.EntityLayer\bin\Debug\net6.0\HotelProject.EntityLayer.deps.json
+C:\Users\alihe\source\repos\MyUdemyApiProject\ApiConsume\HotelProject.EntityLayer\bin\Debug\net6.0\HotelProject.EntityLayer.runtimeconfig.json
+C:\Users\alihe\source\repos\MyUdemyApiProject\ApiConsume\HotelProject.EntityLayer\bin\Debug\net6.0\HotelProject.EntityLayer.dll
+C:\Users\alihe\source\repos\MyUdemyApiProject\ApiConsume\HotelProject.EntityLayer\bin\Debug\net6.0\HotelProject.EntityLayer.pdb
+C:\Users\alihe\source\repos\MyUdemyApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\alihe\source\repos\MyUdemyApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alihe\source\repos\MyUdemyApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\alihe\source\repos\MyUdemyApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.AssemblyInfo.cs
+C:\Users\alihe\source\repos\MyUdemyApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\alihe\source\repos\MyUdemyApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.dll
+C:\Users\alihe\source\repos\MyUdemyApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\refint\HotelProject.EntityLayer.dll
+C:\Users\alihe\source\repos\MyUdemyApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.pdb
+C:\Users\alihe\source\repos\MyUdemyApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.genruntimeconfig.cache
+C:\Users\alihe\source\repos\MyUdemyApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\ref\HotelProject.EntityLayer.dll
+C:\Users\alihe\source\repos\MyUdemyApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.sourcelink.json

@@ -1,0 +1,347 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HotelProject.WebUI
+build_property.RootNamespace = HotelProject.WebUI
+build_property.ProjectDir = c:\Users\alihe\OneDrive\Masaüstü\MyUdemyApiProject\FrontEnd\HotelProject.WebUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\alihe\OneDrive\Masaüstü\MyUdemyApiProject\FrontEnd\HotelProject.WebUI
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminAbout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BYm91dFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminAbout/UpdateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BYm91dFxVcGRhdGVBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminContact/AddSendMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Db250YWN0XEFkZFNlbmRNZXNzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminContact/Inbox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Db250YWN0XEluYm94LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminContact/InboxDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Db250YWN0XEluYm94RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminContact/MessageDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Db250YWN0XE1lc3NhZ2VEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminContact/Senbox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Db250YWN0XFNlbmJveC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminContact/SideBarAdminContactCategoryPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Db250YWN0XFNpZGVCYXJBZG1pbkNvbnRhY3RDYXRlZ29yeVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminContact/SideBarAdminContactPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Db250YWN0XFNpZGVCYXJBZG1pbkNvbnRhY3RQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminFile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5GaWxlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminImageFile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5JbWFnZUZpbGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminLayout/FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcRm9vdGVyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminLayout/HeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcSGVhZGVyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminLayout/HeadPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcSGVhZFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminLayout/NavheaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcTmF2aGVhZGVyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminLayout/PreloaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcUHJlbG9hZGVyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminLayout/SidebarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcU2lkZWJhclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminLayout/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcX0FkbWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminMail/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5NYWlsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminRoom/AddRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Sb29tXEFkZFJvb20uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminRoom/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Sb29tXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminRoom/UpdateRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Sb29tXFVwZGF0ZVJvb20uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminUserListWithWorkLocation/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Vc2VyTGlzdFdpdGhXb3JrTG9jYXRpb25cVXNlckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminUsers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Vc2Vyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/AdminUsers/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Vc2Vyc1xVc2VyTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/BookingAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ0FkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/BookingAdmin/UpdateBooking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ0FkbWluXFVwZGF0ZUJvb2tpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Booking/AddBooking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xBZGRCb29raW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Booking/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Contact/SendMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxTZW5kTWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Default/_NewsletterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxfTmV3c2xldHRlclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/ErrorPage/Error404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JQYWdlXEVycm9yNDA0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Guest/AddGuest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3Vlc3RcQWRkR3Vlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Guest/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3Vlc3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Guest/UpdateGuest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3Vlc3RcVXBkYXRlR3Vlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/RoleAssign/AssignRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZUFzc2lnblxBc3NpZ25Sb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/RoleAssign/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZUFzc2lnblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Role/AddRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxBZGRSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Role/UpdateRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxVcGRhdGVSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Service/AddService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxBZGRTZXJ2aWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Service/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Service/UpdateService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxVcGRhdGVTZXJ2aWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Settings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0dGluZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Shared/Components/_AboutPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Fib3V0UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Shared/Components/_BookingCoverPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jvb2tpbmdDb3ZlclBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Shared/Components/_ContactCoverPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NvbnRhY3RDb3ZlclBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Shared/Components/_DashboardHeadPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Rhc2hib2FyZEhlYWRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Shared/Components/_DashboardLast4StaffList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Rhc2hib2FyZExhc3Q0U3RhZmZMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Shared/Components/_DashboardLast6Bookings/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Rhc2hib2FyZExhc3Q2Qm9va2luZ3NcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Shared/Components/_DashboardSubscribeCountPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Rhc2hib2FyZFN1YnNjcmliZUNvdW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Shared/Components/_DashboardWidgetPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Rhc2hib2FyZFdpZGdldFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Shared/Components/_FooterPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Zvb3RlclBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Shared/Components/_HeadPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0hlYWRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Shared/Components/_NavbarPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX05hdmJhclBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Shared/Components/_NewsletterPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX05ld3NsZXR0ZXJQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Shared/Components/_ReservationPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1Jlc2VydmF0aW9uUGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Shared/Components/_RoomPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1Jvb21QYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Shared/Components/_ScriptPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NjcmlwdFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Shared/Components/_ServicePartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NlcnZpY2VQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Shared/Components/_SliderPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NsaWRlclBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Shared/Components/_SpinnerPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NwaW5uZXJQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Shared/Components/_TeamPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1RlYW1QYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Shared/Components/_TestimonialPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1Rlc3RpbW9uaWFsUGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Shared/Components/_VideoPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1ZpZGVvUGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Staff/AddStaff.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcQWRkU3RhZmYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Staff/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Staff/UpdateStaff.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcVXBkYXRlU3RhZmYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Testimonial/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/WorkLocation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya0xvY2F0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alihe/OneDrive/Masaüstü/MyUdemyApiProject/FrontEnd/HotelProject.WebUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2a1um7la4g

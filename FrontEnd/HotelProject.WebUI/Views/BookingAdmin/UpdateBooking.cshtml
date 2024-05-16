@@ -1,0 +1,71 @@
+﻿@model HotelProject.WebUI.Dtos.BookingDto.UpdateBookingDto
+@{
+    ViewData["Title"] = "UpdateBooking";
+    Layout = "~/Views/AdminLayout/_AdminLayout.cshtml";
+}
+<h1>Rezervasyon Güncelleme Sayfası</h1>
+<form method="post">
+    <input type="hidden" asp-for="BookingID"></input>
+    <div>
+        <label>Misafir Adı Soyadı:</label>
+        <input type="text" asp-for="Name" class="form-control" />
+        <br />
+    </div>
+    <div>
+        <label>Misafir Mail Adresi:</label>
+        <input type="email" asp-for="Mail" class="form-control" />
+        <br />
+    </div>
+    <div>
+        <label>Misafir Giriş Tarihi:</label>
+        <input type="date" asp-for="Checkin" class="form-control" />
+        <br />
+    </div>
+    <div>
+        <label>Misafir Çıkış Tarihi:</label>
+        <input type="date" asp-for="CheckOut" class="form-control" />
+        <br />
+    </div>
+    <div>
+        <label>Yetişkin Sayısı:</label>
+        <input type="text" asp-for="AdultCount" class="form-control" />
+        <br />
+    </div>
+    <div>
+        <label>Çocuk Sayısı:</label>
+        <input type="text" asp-for="ChildCount" class="form-control" />
+        <br />
+    </div>
+    <div>
+        <label>Oda Sayısı:</label>
+        <input type="text" asp-for="RoomCount" class="form-control" />
+        <br />
+    </div>
+    <div>
+        <label>Şehir:</label>
+        <input type="text" asp-for="City" class="form-control" />
+        <br />
+    </div>
+    <div>
+        <label>Ülke:</label>
+        <input type="text" asp-for="Country" class="form-control" />
+        <br />
+    </div>
+    <div>
+        <label>Durum:</label>
+        <input type="text" asp-for="Status" class="form-control" />
+        <br />
+    </div>
+    <div>
+        <label>Özel İstekler:</label>
+        <textarea class="form-control" rows="5" asp-for="SpecialRequest"></textarea>
+        <br />
+    </div>
+    <div>
+        <label>Açıklama:</label>
+        <input type="text" asp-for="Description" class="form-control" />
+        <br />
+    </div>
+    <button class="btn btn-primary">Rezervasyonu Güncelle</button>
+</form>
+

@@ -1,0 +1,60 @@
+﻿@model List<InboxContactDto>
+@{
+    ViewData["Title"] = "Inbox";
+    Layout = "~/Views/AdminLayout/_AdminLayout.cshtml";
+}
+
+
+        <div class="col-lg-12">
+            <div class="card">
+                <div class="card-body">
+                    <div class="email-left-box">
+                        <a href="/AdminContact/AddSendMessage/" class="btn btn-primary btn-block">Yeni Mesaj oluştur</a>
+
+                            <div class="mail-list mt-4">
+                                <a href="/AdminContact/Inbox/" class="list-group-item border-0 text-primary p-r-0"><i class="fa fa-inbox font-18 align-middle mr-2"></i> <b>Gelen Kutusu</b> <span class="badge badge-primary badge-sm float-right m-t-5">@ViewBag.ContactCount</span> </a>
+
+                    <a href="/AdminContact/Senbox/" class="list-group-item text-success border-0 p-r-0"><i class="fa fa-paper-plane font-18 align-middle mr-2"></i>Giden Kutusu <span class="badge badge-success badge-sm float-right m-t-5">@ViewBag.SendMessageCount</span></a>
+                                <a href="#" class="list-group-item text-danger border-0 p-r-0"><i class="fa fa-star-o font-18 align-middle mr-2"></i>Önemli <span class="badge badge-danger badge-sm float-right m-t-5">57</span> </a>
+                                <a href="#" class="list-group-item text-warning border-0 p-r-0"><i class="mdi mdi-file-document-box font-18 align-middle mr-2"></i>Taslak</a>
+                                <a href="#" class="list-group-item text-dark border-0 p-r-0"><i class="fa fa-trash font-18 align-middle mr-2"></i>Çöp Kutusu</a>
+                            </div>
+                        @* @await Html.PartialAsync("SideBarAdminContactPartial") *@
+                        <h5 class="mt-5 m-b-10">Kategoriler</h5>
+                        @await Html.PartialAsync("SideBarAdminContactCategoryPartial")
+                    </div>
+                    <div class="email-right-box">
+                        <div role="toolbar" class="toolbar">
+                            <div class="btn-group">
+                                <button aria-expanded="false" data-toggle="dropdown" class="btn btn-dark dropdown-toggle" type="button">
+                                    More <span class="caret m-l-5"></span>
+                                </button>
+                                <div class="dropdown-menu">
+                                    <span class="dropdown-header">Gelen Mesajlar :</span>                                                                                                                                                                                                                                           class="dropdown-item">Add Star</a>  <a href="javascript: void(0);" class="dropdown-item">Mute</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="email-list m-t-15">
+                            @foreach(var item in Model)
+                            {
+                            <div class="message">
+                                <a href="/AdminContact/InboxDetails/@item.ContactID">
+                                    <div class="col-mail col-mail-1">
+                                        <div class="email-checkbox">
+                                            <input type="checkbox" id="chk2">
+                                            <label class="toggle" for="chk2"></label>
+                                        </div><span class="star-toggle ti-star"></span>
+                                    </div>
+                                    <div class="col-mail col-mail-2">
+                                        <div class="subject">@item.Message</div>
+                                        <div class="date">@item.Date</div>
+                                    </div>
+                                </a>
+                            </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
