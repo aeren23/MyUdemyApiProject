@@ -26,7 +26,7 @@ This Project is a full stack web side project that developed for hotel reservati
 
 ### Requirements:
 - .NET SDK
-- Node.js ve NPM
+-  NPM
 - SQL Server
 
 ### Steps:
@@ -49,7 +49,7 @@ This Project is a full stack web side project that developed for hotel reservati
    npm start
    ```
 
-## 7. **API Dökümantasyonu**
+## 7. **API Documentation**
 API Documentation
 
 ```markdown
