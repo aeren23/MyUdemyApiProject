@@ -10,7 +10,9 @@ This Project is a full stack web side project that developed for hotel reservati
 - **Frontend:** HTML, CSS, JS, Bootstrap
 - **Database:** SQL Server
 - **API:** RESTful API
-
+- ASP.NET Core Identity
+- Fluent Validation
+- ASP.NET Core Validation
 
 ## Project Architecture
 
